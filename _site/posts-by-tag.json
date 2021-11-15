@@ -6,77 +6,99 @@
   "tag" : "GitHub Pages",
   "posts" : [
       
-      "./Caracteristicas.html"
+      "./GithubPages.html",
+      
+      "./Jekyll.html"
       
     ]
   } ,
     
       
   {
-  "tag" : "artificial intelligence",
+  "tag" : "analisis",
   "posts" : [
       
-      "./AI-and-intellectual-property.html",
-      
-      "./back-to-basics.html",
-      
-      "./deep-q-learning-tic-tac-toe.html"
+      "./Analisis.html"
       
     ]
   } ,
     
       
   {
-  "tag" : "coding",
+  "tag" : "aplicación",
   "posts" : [
       
-      "./deep-q-learning-tic-tac-toe.html",
-      
-      "./neural-network-optimization-methods.html",
-      
-      "./Ventajas-Coparativa.html",
-      
-      "./Analisis-y-Dise%C3%B1o.html"
+      "./caso-practico.html"
       
     ]
   } ,
     
       
   {
-  "tag" : "copyright",
+  "tag" : "bibliografía",
   "posts" : [
       
-      "./AI-and-intellectual-property.html"
+      "./webgraf%C3%ADa.html"
       
     ]
   } ,
     
       
   {
-  "tag" : "creativity",
+  "tag" : "comparativa",
   "posts" : [
       
-      "./AI-and-intellectual-property.html"
+      "./comparativa.html"
       
     ]
   } ,
     
       
   {
-  "tag" : "deep Neural networks",
+  "tag" : "diseño",
   "posts" : [
       
-      "./neural-network-optimization-methods.html"
+      "./Analisis.html"
       
     ]
   } ,
     
       
   {
-  "tag" : "general blogging",
+  "tag" : "documentación",
   "posts" : [
       
-      "./starting-the-adventure.html"
+      "./webgraf%C3%ADa.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "entorno de desarrollo",
+  "posts" : [
+      
+      "./Analisis.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "github",
+  "posts" : [
+      
+      "./GithubPages.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "hosting",
+  "posts" : [
+      
+      "./GithubPages.html"
       
     ]
   } ,
@@ -86,93 +108,79 @@
   "tag" : "jekyll",
   "posts" : [
       
-      "./Caracteristicas.html"
+      "./Jekyll.html",
+      
+      "./caso-practico.html"
       
     ]
   } ,
     
       
   {
-  "tag" : "life",
+  "tag" : "lenguajes de programación",
   "posts" : [
       
-      "./starting-the-adventure.html"
+      "./Analisis.html"
       
     ]
   } ,
     
       
   {
-  "tag" : "machine learning",
+  "tag" : "licencia",
   "posts" : [
       
-      "./AI-and-intellectual-property.html",
-      
-      "./back-to-basics.html",
-      
-      "./deep-q-learning-tic-tac-toe.html",
-      
-      "./neural-network-optimization-methods.html",
-      
-      "./Ventajas-Coparativa.html"
+      "./comparativa.html"
       
     ]
   } ,
     
       
   {
-  "tag" : "neural networks",
+  "tag" : "precio",
   "posts" : [
       
-      "./AI-and-intellectual-property.html",
-      
-      "./back-to-basics.html",
-      
-      "./Ventajas-Coparativa.html"
+      "./comparativa.html"
       
     ]
   } ,
     
       
   {
-  "tag" : "optimization",
+  "tag" : "referencias",
   "posts" : [
       
-      "./neural-network-optimization-methods.html"
+      "./webgraf%C3%ADa.html"
       
     ]
   } ,
     
       
   {
-  "tag" : "python",
+  "tag" : "requisitos",
   "posts" : [
       
-      "./deep-q-learning-tic-tac-toe.html",
-      
-      "./Ventajas-Coparativa.html",
-      
-      "./Analisis-y-Dise%C3%B1o.html"
+      "./Analisis.html"
       
     ]
   } ,
     
       
   {
-  "tag" : "reinforcement learning",
+  "tag" : "tutorial",
   "posts" : [
       
-      "./deep-q-learning-tic-tac-toe.html"
+      "./Analisis.html"
       
     ]
   } ,
     
       
   {
-  "tag" : "thoughts",
+  "tag" : "web",
   "posts" : [
       
-      "./starting-the-adventure.html"
+      "./caso-practico.html"
       
     ]
   } 

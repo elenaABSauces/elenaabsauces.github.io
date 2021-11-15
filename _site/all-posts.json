@@ -1,21 +1,17 @@
 {
   "posts" : [
     
-    "./Caracteristicas.html",
+    "./webgraf%C3%ADa.html",
     
-    "./AI-and-intellectual-property.html",
+    "./Analisis.html",
     
-    "./back-to-basics.html",
+    "./comparativa.html",
     
-    "./starting-the-adventure.html",
+    "./GithubPages.html",
     
-    "./deep-q-learning-tic-tac-toe.html",
+    "./Jekyll.html",
     
-    "./neural-network-optimization-methods.html",
-    
-    "./Ventajas-Coparativa.html",
-    
-    "./Analisis-y-Dise%C3%B1o.html"
+    "./caso-practico.html"
     
   ]
 }
