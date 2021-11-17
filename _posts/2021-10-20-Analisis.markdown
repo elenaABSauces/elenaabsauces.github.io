@@ -10,5 +10,29 @@ tags: [analisis, diseño, entorno de desarrollo, lenguajes de programación, tut
 author: Elena de Antón
 
 ---
+## Analisis y diseño
+
+Para crear este tutorial, haremos una página web con una única ruta principal, que tenga un apartado para cada parte del proceso, accesible desde la navegación principal de la web.
+Titulo del Sitio: DAW
+Subtitulo: Proyecto final
+Secciones:
+-	Presentación
+-	Usando GitHub Pages
+-	Qué es Jekyll y cómo funciona
+-	Qué ventajas ofrece y que tipo de licencia tiene
+-	Por qué elegir Jekyll y no otro generador de webs estáticas
+-	Análisis y diseño
+-	Caso práctico
+-	Webgrafía
 
 
+### Pre-requisitos antes de comenzar:
+-	Tener instalado la versión 2.5.0 de Ruby o superior.
+-	RubyGems
+-	GCC and Make
+	Diseño de Interface
+A la hora de elegir el diseño de Interface, buscaremos una plantilla de Jekyll que mejor se ajuste a nuestras necesidades. En este caso necesitamos un tema senci-llo de navegar, que ofrece la posibilidad de crear varios posts para organizar la in-formación que queremos compartir. También, un tema que se adapte a las plata-formas móviles y que use un esquema de colores atractivo, uniforme y con la posi-bilidad de elegir modo noche.
+
+### Árbol de navegación
+
+<a href="https://www.figma.com/file/1uJpHBodtaK7anlFm8IUnz/Information-Architecture-Diagram-(Community)?node-id=0%3A1"><img  src="./assets/img/posts/20211020/arbolc.png" width="1600px"></a>

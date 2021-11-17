@@ -1,0 +1,18 @@
+I"�<h2 id="introducción">Introducción</h2>
+
+<p>¡Hola! Soy Elena de Antón, alumna del ciclo formativo “Desarrollo de plataformas web”; y como proyecto final he decidido investigar un poco como funciona el generador de webs estáticas de Jekyll.
+A lo largo de estos posts os adentrareis en mi proyecto y espero que acabeis teninendo tanta destreza y agilidad como la que he adquirido yo desarrollandolo.</p>
+
+<p>pero… ¿Cuándo es conveniente utilizar un generador de webs estáticas?</p>
+
+<p>Bueno, lo primero que debes hacer es tener claro es si quieres crear una web dinámica o estática. Algunas preguntas que puedes hacerte son:</p>
+
+<ul>
+  <li>¿Necesito una base de datos?</li>
+  <li>¿Necesito que el cliente altere contenido?</li>
+</ul>
+
+<p>Si tu respuesta es negativa, ¡¡ ahí lo tienes !! Quieres una web estática y este proyecto esta hecho para ti.</p>
+
+<p>Gracias por tu interes y a disfrutar !! :)</p>
+:ET

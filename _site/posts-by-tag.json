@@ -6,9 +6,7 @@
   "tag" : "GitHub Pages",
   "posts" : [
       
-      "./GithubPages.html",
-      
-      "./Jekyll.html"
+      "./GP.html"
       
     ]
   } ,
@@ -28,7 +26,9 @@
   "tag" : "aplicación",
   "posts" : [
       
-      "./caso-practico.html"
+      "./caso-practico.html",
+      
+      "./Presentacion.html"
       
     ]
   } ,
@@ -85,20 +85,12 @@
     
       
   {
-  "tag" : "github",
+  "tag" : "generador",
   "posts" : [
       
-      "./GithubPages.html"
+      "./ventajas.html",
       
-    ]
-  } ,
-    
-      
-  {
-  "tag" : "hosting",
-  "posts" : [
-      
-      "./GithubPages.html"
+      "./Jekyll.html"
       
     ]
   } ,
@@ -108,9 +100,15 @@
   "tag" : "jekyll",
   "posts" : [
       
+      "./ventajas.html",
+      
       "./Jekyll.html",
       
-      "./caso-practico.html"
+      "./GP.html",
+      
+      "./caso-practico.html",
+      
+      "./Presentacion.html"
       
     ]
   } ,
@@ -177,10 +175,36 @@
     
       
   {
+  "tag" : "ventajas",
+  "posts" : [
+      
+      "./ventajas.html",
+      
+      "./Jekyll.html"
+      
+    ]
+  } ,
+    
+      
+  {
   "tag" : "web",
   "posts" : [
       
-      "./caso-practico.html"
+      "./caso-practico.html",
+      
+      "./Presentacion.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "webs estaticas",
+  "posts" : [
+      
+      "./ventajas.html",
+      
+      "./Jekyll.html"
       
     ]
   } 

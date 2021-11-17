@@ -7,7 +7,7 @@
       "url"         : "./webgraf%C3%ADa.html",
       "date"        : "2021-11-05 00:00:00 +0100",
       "description" : "webgrafía",
-      "content"     : "WebgrafíaPara elaborar este proyecto, se ha consultado la siguiente webgrafía:Experimenta con Jekyll. (2017). Experimentaconjekyll. http://feeds.feedburner.com/ExperimentaconjekyllGitHub Pages. (2021). https://pages.github.com/. https://pages.github.com/Jekyll – the practical generator for static websites. (2021, 27 octubre). IONOS Digitalguide. https://www.ionos.com/digitalguide/hosting/blogs/jekyll-the-basic-framework-for-web-projects-without-databases/&lt;/li&gt;L. (2020).Add webrick gem to fix jekyll server · luispuerto/luispuerto-net@1f62feb. GitHub. https://github.com/luispuerto/luispuerto-net/commit/1f62febdfd8d43d79d6095b031032e1692098925Lone Wolf Theme. (2021). Jekyll theme. http://jekyllthemes.org/themes/lone-wolf-themeMake A High-Quality Logo In Just 5 Minutes For Under $30! (2021).Tailor Brands. https://studio.tailorbrands.com/&lt;/li&gt;Quickstart. (2021, 5 noviembre). Jekyll • Simple, Blog-Aware, Static Sites. https://jekyllrb.com/docs/Scribbr. (2021, 1 marzo). Formato APA con el Generador APA de. https://www.scribbr.es/detector-de-plagio/generador-apa/Showcase. (2021). Jekyll • Simple, Blog-Aware, Static Sites. https://jekyllrb.com/showcase/&lt;/ul&gt;## Conclusión final"
+      "content"     : "WebgrafíaPara elaborar este proyecto, se ha consultado la siguiente webgrafía:Experimenta con Jekyll. (2017). Experimentaconjekyll. http://feeds.feedburner.com/Experimentaconjekyll&lt;spanGitHub Pages. (2021). https://pages.github.com/. https://pages.github.com/Jekyll – the practical generator for static websites. (2021, 27 octubre). IONOS Digitalguide. https://www.ionos.com/digitalguide/hosting/blogs/jekyll-the-basic-framework-for-web-projects-without-databases/&lt;/li&gt;L. (2020).Add webrick gem to fix jekyll server · luispuerto/luispuerto-net@1f62feb. GitHub. https://github.com/luispuerto/luispuerto-net/commit/1f62febdfd8d43d79d6095b031032e1692098925Lone Wolf Theme. (2021). Jekyll theme. http://jekyllthemes.org/themes/lone-wolf-themeMake A High-Quality Logo In Just 5 Minutes For Under $30! (2021).Tailor Brands. https://studio.tailorbrands.com/&lt;/li&gt;Quickstart. (2021, 5 noviembre). Jekyll • Simple, Blog-Aware, Static Sites. https://jekyllrb.com/docs/Scribbr. (2021, 1 marzo). Formato APA con el Generador APA de. https://www.scribbr.es/detector-de-plagio/generador-apa/Showcase. (2021). Jekyll • Simple, Blog-Aware, Static Sites. https://jekyllrb.com/showcase/&lt;/ul&gt;## Conclusión final"
     } ,
   
     {
@@ -17,37 +17,47 @@
       "url"         : "./Analisis.html",
       "date"        : "2021-10-20 21:32:20 +0200",
       "description" : "Analisis y diseño",
-      "content"     : ""
+      "content"     : "Analisis y diseñoPara crear este tutorial, haremos una página web con una única ruta principal, que tenga un apartado para cada parte del proceso, accesible desde la navegación principal de la web.Titulo del Sitio: DAWSubtitulo: Proyecto finalSecciones: Presentación Usando GitHub Pages Qué es Jekyll y cómo funciona Qué ventajas ofrece y que tipo de licencia tiene Por qué elegir Jekyll y no otro generador de webs estáticas Análisis y diseño Caso práctico WebgrafíaPre-requisitos antes de comenzar: Tener instalado la versión 2.5.0 de Ruby o superior. RubyGems GCC and Make Diseño de InterfaceA la hora de elegir el diseño de Interface, buscaremos una plantilla de Jekyll que mejor se ajuste a nuestras necesidades. En este caso necesitamos un tema senci-llo de navegar, que ofrece la posibilidad de crear varios posts para organizar la in-formación que queremos compartir. También, un tema que se adapte a las plata-formas móviles y que use un esquema de colores atractivo, uniforme y con la posi-bilidad de elegir modo noche.Árbol de navegación"
     } ,
   
     {
-      "title"       : "Comparativa",
+      "title"       : "¿Por qué elegir Jekyll?",
       "category"    : "",
       "tags"        : "licencia, precio, comparativa",
       "url"         : "./comparativa.html",
       "date"        : "2021-10-10 20:32:20 +0200",
-      "description" : "Licencias, precios y comparativa con otras plataformas.",
-      "content"     : "I"
+      "description" : "Comparativa con otras plataformas.",
+      "content"     : "¿Por qué elegir Jekyll y no otro generador de webs estáticas?Existen otros dos grandes frameworks con los que Jekyll compite directamente: Hugo y Gatsby.Las mayores diferencias se encuentran en el lenguaje de progra-mación en los que están escritos: Hugo en Go y Gastby en JavaScript. Además el proceso de publicar la página web usando GitHub Pages es inmediato usando Jekyll pero usando Hugo o Gatsby require usar funcionalidad intermedia de GitHub como GitHub Actions.Por otro lado, se puede comparar con gestores de contenidos como Wordpess, Drupal o Joomla. La mayor diferencia es que estos gestores de contenidos requieren una base de datos y un hosting más caro a cambio de editores WYSIWYG, que permiten editar la web de una forma visual.Ejemplos de webs donde se ha utilizado Jekyll: :https://jekyllrb.com/showcase/"
     } ,
   
     {
-      "title"       : "GitHub",
+      "title"       : "Ventajas de Jekyll",
       "category"    : "",
-      "tags"        : "hosting, github, GitHub Pages",
-      "url"         : "./GithubPages.html",
+      "tags"        : "generador, webs estaticas, jekyll, ventajas",
+      "url"         : "./ventajas.html",
       "date"        : "2021-10-05 21:32:20 +0200",
-      "description" : "qué es y cómo se utiliza GitHub Pages",
-      "content"     : ""
+      "description" : "Ventajas y Licencia",
+      "content"     : "¿Qué ventajas ofrece?Jekyll tiene varias partes en su funcionalidad, que lo hacen muy interesante y potente pa-ra educación y equipos de contenido: Liquid Liquid es la funcionalidad de Jekyll que permite usar variables y “trocitos” de código reutili-zables para los lenguajes de marcas que soporta. Por ejemplo, usando HTML, si defines un fichero nav.html, puedes reutilizarlo en cualquie-ra de tus páginas llamando al siguiente código: Front MatterEs un trozito de código / snippet escrito en YAML que se puede escribir al principio de todas las páginas para dar información adicional de la página a los bots, lectores de acce-sibilidad, etc. (redirigir, links, SEO …) Por ejemplo: Layouts Los layouts te permiten definir los estilos de la página web y se aplicará a tu contenido en HTML o Markdown. Para usar layouts, se necesita un directorio _layouts en la raiz del repositorio. Por ejem-plo, para crear un layout por defecto, podemos usar un fichero default.hml dentro de la carpeta _layouts, con el siguiente contenido: Este fichero default.html es casi idéntico a nuestro index.html, pero no contiene “Front Mater” y define dos variables que usarán el page.title y contenido de nuestros ficheros. Content, es una variable especial que devuelve el contenido renderizado de la página que solicite el layout. Para usar un layout ya definido, usamos la sección de FrontMatter (2): Includes En el caso de que el contenido de tu web, tenga información que haya que repetir en va-rias páginas distintas, usaremos la funcionalidad de includes. Es común usar includes pa-ra definir el footer de la página web de forma consistente en todas las páginas. También es común usar includes para navegación y enlazar unas páginas con otras. Por ejemplo este será el layout de nuestra página de departamento: Data filesJekyll permite cargar datos de ficheros YAML, JSON y CSV. Estos ficheros tienen que crearse dentro de un directorio llamado _data.Por ejemplo, los horarios de atención de secretaría pueden estar visibles en varias páginas a la vez. Usando data files, solo actualizamos la información base definida en un fichero YAML y nuestras páginas referenciarían ese fichero para generar la web. Podemos aplicar distintos estilos de visualización de la misma información dependiendo de la página que los use.Por ejemplo definimos un archivo horarios_secretaria.yml en el directorio _data: horarios: lectivo: “de 8 a 10 horas” no_lectivo: “de 8 a 14 horas” Otras funcionalidadesJekyll ofrece otras funcionalidades que nos facilitan nuestro trabajo, como la posibilidad de organizar en carpetas los archivos estáticos. Si quieres ampliar más la información vista anteriormente visita la página:https://jekyllrb.com/docs/step-by-step/01-setup/¿Qué licencia y coste tiene Jekyll?Tanto Jekyll como los temas disponibles son código abierto y tienen como mínimo, licencia de código abierto MIT.Aunque hay servidores de pago, se encuentra alojamiento gratuito en GitHub Pa-ges y Netlify, aunque Netlify require incluir un código de “desarrollado con Netlify” en tu web. Ambas opciones permiten añadir un dominio propio de forma gratuita."
     } ,
   
     {
-      "title"       : "Presentación",
+      "title"       : "Jekyll",
+      "category"    : "",
+      "tags"        : "generador, webs estaticas, jekyll, ventajas",
+      "url"         : "./Jekyll.html",
+      "date"        : "2021-10-05 21:32:20 +0200",
+      "description" : "Qué es Jekyll y como funciona",
+      "content"     : "¿Qué es Jekyll?Jekyll es un generador de webs estáticas, es decir, nos permite crear una web estática de una forma más rápida y eficiente ya que podemos reutilizar trozos de código, definir plan-tillas,etc.Como en cualquier otro sitio web estático, no tienes la posibilidad de usar una base de datos o funcionalidad dinámica, pero a cambio ofrece mayor rapidez a la hora de cargar páginas web y nos aportan más tranquilidad al ser más seguras. Esta seguridad es debi-da a que no expone a que el usuario final pueda editar información inherente a la página web.Jekyll esta escrito en Ruby; Ruby es un lenguaje de programación interpretado, reflexivo y orientado a objetos. No es necesario conocer este lenguaje para poder utilizar esta he-rramienta para generar páginas web, aunque a la hora de desarrollar temas nuevos y po-tentes usando Jekyll, conviene conocer Ruby. Dentro de Ruby, Jekyll es una gema, eso significa que es una dependencia, y para utili-zarla de forma repetitiva en tu servidor, utiliza un fichero Gemfile que procesa Bundler, el gestor de dependencias de Ruby.No ofrece un editor (Lo que editas, es el resultado final) WYSIWYG, what you see is what you get, a diferencia de Wordpress o Drupal, requiere trabajar directamente en el código, en el lenguaje de marcas de tu elección (markdown, html…) .A la hora de publicar una web con Jekyll, existen varias opciones, las principales serían: Alojarlo en local: Para alojarlo en tu equipo, necesitas tener instalados Ruby, Rub-yGems, GCC y Make. Una vez que están instalados, necesitas las gemas de Jekyll y Bundler para poder mostrar tu web desde un servidor local. Alojarlo en algún servidor de hosting: GitHub Pages, Netlify, Digital Ocean… Los servidores de hosting modernos hacen la gestión de dependencias automáticamen-te de tal forma que poner tu página web en marcha usando Jekyll y uno de los te-mas que ofrece, es casi inmediato.Originalmente, Jekyll fue creado para bloguear y permitir a equipos de documentación, marketing y contenidos trabajar usando markdown o un lenguaje de marcas al que se le pudieran aplicar plantillas, layouts y estilos rápidamente. Es por ese motivo que Jekyll sea una herramienta tan cómoda y rápida, pero a la vez vistosa.¿Cómo funciona un tema de Jekyll?Los temas de Jekyll te permiten agrupar el código dentro de una gema de Ruby, de tal forma que los estilos CSS y plantillas estén contenidos en esa gema. De este modo, el mismo diseño y estilos se pueden aplicar a una web concreta o a varias web, separando la información base de la página, del código y del diseño.Un ejemplo sencillo de página web usando Jekyll y html sería el siguiente:En la raiz del repositorio se encuentra todo lo necesario para que nuestra página web funcione. En el siguiente ejemplo hay una carpeta posts, que contiene el primer post del blog, un punto de entrada y página principal index.html, una página 404 (not found) y una página sobre el autor ´about.md´, un fichero YAML, config.yml que define la información básica del sitio: titulo, url principal…; un gemfile que contiene las dependencias.Hay tres carpetas para definir los estilos y los layouts: includes, layouts y css.La mayor ventaja de los temas de Jekyll, es que todos los archivos pueden sobresecribirse para editar estilos, añadir o quitar contenido…, es decir, modificarlos a tu gusto."
+    } ,
+  
+    {
+      "title"       : "GitHub Pages",
       "category"    : "",
       "tags"        : "jekyll, GitHub Pages",
-      "url"         : "./Jekyll.html",
+      "url"         : "./GP.html",
       "date"        : "2021-10-01 00:00:00 +0200",
-      "description" : "Presentación sobre el proyecto Jekyll",
-      "content"     : "Presentación a JekyllJekyll es un generador de páginas estáticas para la construcción de webs, que recoge texto escrito en cualquier lenguaje de marcas y utiliza maquetas para crear una página web estática y modificarla como queramos.A diferencia de los sitios web dinámicos o de los administrados por gestores de contenidos, que necesitan utilizar una base de datos para extraer información y así completar el contenido de una página web, los sitios web estáticos no guardan la información en una base de datos, toda la información que se muestra en cada página web ya está contenida en el documento HTML. Jekyll ayuda a escribir este tipo de páginas web para que no sea completamente a mano.Jekyll fue desarrollado por Tom Preston- Werner, uno de los cuatro cofundadores de GitHub, y es el generador que se utiliza en la creación de páginas en GitHub Pages.GitHub Pages es un espacio gratuito para alojar y almacenar archivos de una página web, pero no aloja bases de datos, por lo que es muy útil a la hora de desplegar HTML básicos o generados con Jekyll.En el siguiente proyecto estudiaremos la herramienta de Jekyll para generar un sitio web estático fácilmente, y observaremos tanto su despliegue en local como en GitHub Pages."
+      "description" : "qué es y cómo se utiliza GitHub Pages",
+      "content"     : "¿Qué es y cómo funciona GitHub Pages?GitHub Pages es una herramienta que ofrece un servicio estático de hosting gratuito para webs que utiliza el protocolo HTTPS. Estas webs se alojan en un repositorio específico de la plataforma GitHub.Es un servicio muy sencillo de utilizar, básicamente tener un repositorio en GitHub cuyo nombre sea tu nombre de usuario seguido de github.io. Esa dirección será también la URL para acceder a tu sitio web. Por ejemplo, mi nombre de usuario en GitHub es ele-naABSauces, por lo que el nombre del repositorio que quiero tener alojado en GitHub Pa-ges es elenaABSauces.github.io (Las mayúsculas no interfieren). En el caso de tener un dominio propio, GitHub nos ofrece la posibilidad de configurar ese dominio como el princi-pal para acceder a la web.Para que se muestre correctamente nuestra web, el código que este subido en este repo-sitorio deberá estar estructurado del mismo modo que lo estaría cualquier sitio web, te-niendo como primer punto de entrada el documento HTML index.html. Por lo demás, funcionaríamos igual que con cualquier otro proyecto en un repositorio con control de versiones usando GitHub.Puedes investigar más sobre GitHub Pages en su web: https://pages.github.com/"
     } ,
   
     {
@@ -56,8 +66,18 @@
       "tags"        : "jekyll, web, aplicación",
       "url"         : "./caso-practico.html",
       "date"        : "2021-03-24 00:00:00 +0100",
-      "description" : "Explicación caso práctico",
+      "description" : "Caso practico",
       "content"     : ""
+    } ,
+  
+    {
+      "title"       : "Caso Práctico",
+      "category"    : "",
+      "tags"        : "jekyll, web, aplicación",
+      "url"         : "./Presentacion.html",
+      "date"        : "2021-03-24 00:00:00 +0100",
+      "description" : "Presentación",
+      "content"     : "Introducción¡Hola! Soy Elena de Antón, alumna del ciclo formativo “Desarrollo de plataformas web”; y como proyecto final he decidido investigar un poco como funciona el generador de webs estáticas de Jekyll.A lo largo de estos posts os adentrareis en mi proyecto y espero que acabeis teninendo tanta destreza y agilidad como la que he adquirido yo desarrollandolo.pero… ¿Cuándo es conveniente utilizar un generador de webs estáticas?Bueno, lo primero que debes hacer es tener claro es si quieres crear una web dinámica o estática. Algunas preguntas que puedes hacerte son: ¿Necesito una base de datos? ¿Necesito que el cliente altere contenido?Si tu respuesta es negativa, ¡¡ ahí lo tienes !! Quieres una web estática y este proyecto esta hecho para ti.Gracias por tu interes y a disfrutar !! :)"
     } 
   
 ]

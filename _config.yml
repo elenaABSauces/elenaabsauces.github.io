@@ -4,9 +4,9 @@ description: 'Creación de webs estaticas con el generador Jekyll' # this means 
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://elenaabsauces.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "/assets/img/branding/jekyll.svg"
-logo-icon: "/assets/img/branding/jekyll.svg"
-logo-icon-SEO: "/assets/img/branding/jekyll.svg" # must be a non SVG file
+logo: "/assets/img/branding/final2.png"
+logo-icon: "/assets/img/branding/final2.svg"
+logo-icon-SEO: "/assets/img/branding/final2.png" # must be a non SVG file
 
 # Night/Dark mode
 # Default mode is "auto", "auto" is for auto nightshift
@@ -20,13 +20,13 @@ logo-icon-SEO: "/assets/img/branding/jekyll.svg" # must be a non SVG file
 # the browser is closed or not)
 night_mode: "auto"
 
-logo-dark: "/assets/img/branding/MVM-logo-full-dark.svg"
+logo-dark: "/assets/img/branding/daw1.png"
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
 
 # Author settings
 author: Elena de Antón  # add your name
-author-pic: favi.png
-about-author: alumna del FP DAW.
+author-pic: "/assets/img/branding/favi.png"
+about-author: Alumna del FP DAW.
 
 # Contact links
 email: elena.antbar@educa.jcyl.es # Add your Email address
