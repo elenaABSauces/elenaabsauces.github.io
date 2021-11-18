@@ -5,7 +5,6 @@ permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://elenaabsauces.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/img/branding/final2.png"
-logo-icon: "/assets/img/branding/final2.svg"
 logo-icon-SEO: "/assets/img/branding/final2.png" # must be a non SVG file
 
 # Night/Dark mode
@@ -40,7 +39,7 @@ bandcamp: eantob # Add your Bandcamp username
 mailchimp: "https://github.us1.list-manage.com/subscribe/post?u=8ece198b3eb260e6838461a60&amp;id=397d90b5f4"
 
 # Disqus
-discus_identifier: elenaABSauces-github-io # Add your discus identifier
+discus_identifier: disqus_WNAzhClu3q # Add your discus identifier
 comments_curtain: yes # leave empty to show the disqus embed directly
 
 # Tracker
