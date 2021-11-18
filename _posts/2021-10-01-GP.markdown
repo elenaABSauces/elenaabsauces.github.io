@@ -3,8 +3,8 @@ layout: post
 read_time: true
 show_date: false
 title:  GitHub Pages
-date:   2021-10-01
-description: qué es y cómo se utiliza GitHub Pages
+date:   2021-7-01
+description: Usando GitHub Pages
 img: posts/20211001/GitHub-Pages.png
 tags: [jekyll, GitHub Pages]
 author: Elena de Antón

@@ -1,17 +1,16 @@
 # Site settings
-title: Jekyll
-description: 'Creación de webs estaticas con el generador Jekyll' # this means to ignore newlines until "baseurl:"
+title: DAW Proyecto Final
+description: 'Proyecto final sobre el generador de webs estáticas Jekyll' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://elenaabsauces.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/img/branding/final2.png"
-logo-icon: "/assets/img/branding/final2.svg"
+logo-icon: "/assets/img/branding/favicon.png"
 logo-icon-SEO: "/assets/img/branding/final2.png" # must be a non SVG file
 
 # Night/Dark mode
 # Default mode is "auto", "auto" is for auto nightshift
 # (19:00 - 07:00), "manual" is for manual toggle, and
-# "on/off" is for default on/off.
 #
 # Whatever the user's choice is, it will supersede the
 # default setting of the site and be kept during the
@@ -25,15 +24,15 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 
 # Author settings
 author: Elena de Antón  # add your name
-author-pic: "/assets/img/branding/favi.png"
+author-pic: "favi.png"
 about-author: Alumna del FP DAW.
 
 # Contact links
 email: elena.antbar@educa.jcyl.es # Add your Email address
 phone: # Add your Phone number
 website: https://elenaabsauces.github.io/ # Add your website
-linkedin: https://www.linkedin.com/in/elena-de-ant%C3%B3n-barrio-68a69b120/ # Add your Linkedin handle
-github: https://github.com/elenaABSauces # Add your Github handle
+linkedin: 'Elena de Antón Barrio' # Add your Linkedin handle
+github: 'elenaABSauces' # Add your Github handle
 twitter: '@eantob' # Add your Twitter handle
 bandcamp: eantob # Add your Bandcamp username
 

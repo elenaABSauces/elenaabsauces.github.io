@@ -26,9 +26,9 @@
   "tag" : "aplicación",
   "posts" : [
       
-      "./caso-practico.html",
+      "./Presentacion.html",
       
-      "./Presentacion.html"
+      "./caso-practico.html"
       
     ]
   } ,
@@ -88,9 +88,9 @@
   "tag" : "generador",
   "posts" : [
       
-      "./ventajas.html",
+      "./Jekyll.html",
       
-      "./Jekyll.html"
+      "./ventajas.html"
       
     ]
   } ,
@@ -100,15 +100,15 @@
   "tag" : "jekyll",
   "posts" : [
       
-      "./ventajas.html",
-      
-      "./Jekyll.html",
+      "./Presentacion.html",
       
       "./GP.html",
       
-      "./caso-practico.html",
+      "./Jekyll.html",
       
-      "./Presentacion.html"
+      "./ventajas.html",
+      
+      "./caso-practico.html"
       
     ]
   } ,
@@ -178,9 +178,9 @@
   "tag" : "ventajas",
   "posts" : [
       
-      "./ventajas.html",
+      "./Jekyll.html",
       
-      "./Jekyll.html"
+      "./ventajas.html"
       
     ]
   } ,
@@ -190,9 +190,9 @@
   "tag" : "web",
   "posts" : [
       
-      "./caso-practico.html",
+      "./Presentacion.html",
       
-      "./Presentacion.html"
+      "./caso-practico.html"
       
     ]
   } ,
@@ -202,9 +202,9 @@
   "tag" : "webs estaticas",
   "posts" : [
       
-      "./ventajas.html",
+      "./Jekyll.html",
       
-      "./Jekyll.html"
+      "./ventajas.html"
       
     ]
   } 

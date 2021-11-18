@@ -2,9 +2,9 @@
 layout: post
 read_time: true
 show_date: true
-title: "Caso Práctico"
-date: 2021-03-24
-img: posts/2021031/practico.jpg
+title: BIENVENIDOS
+date: 2021-09-30
+img: posts/20210930/welcome.jpg
 tags: [jekyll, web, aplicación]
 author: Elena de Antón
 description: "Presentación"

@@ -1,0 +1,79 @@
+I"�<h3 id="qué-ventajas-ofrece">¿Qué ventajas ofrece?</h3>
+
+<p>Jekyll tiene varias partes en su funcionalidad, que lo hacen muy interesante y potente pa-ra educación y equipos de contenido:</p>
+
+<ol>
+  <li>
+    <p>Liquid</p>
+
+    <p>Liquid es la funcionalidad de Jekyll que permite usar variables y “trocitos” de código reutili-zables para los lenguajes de marcas que soporta. 
+ Por ejemplo, usando HTML, si defines un fichero nav.html, puedes reutilizarlo en cualquie-ra de tus páginas llamando al siguiente código:</p>
+
+    <center><img src="./assets/img/posts/20211005/include.png" width="240px" /></center>
+  </li>
+  <li>
+    <p>Front Matter</p>
+
+    <p>Es un trozito de código / snippet escrito en YAML que se puede escribir al principio de todas las páginas para dar información adicional de la página a los bots, lectores de acce-sibilidad, etc. (redirigir, links, SEO …) Por ejemplo:</p>
+
+    <center><img src="./assets/img/posts/20211005/front.png" width="240px" /></center>
+  </li>
+  <li>
+    <p>Layouts</p>
+
+    <p>Los layouts te permiten definir los estilos de la página web y se aplicará a tu contenido en HTML o Markdown.
+ Para usar layouts, se necesita un directorio _layouts en la raiz del repositorio. Por ejem-plo, para crear un layout por defecto, podemos usar un fichero default.hml dentro de la carpeta _layouts, con el siguiente contenido:</p>
+
+    <center><img src="./assets/img/posts/20211005/arbol.png" width="240px" /></center>
+
+    <p>Este fichero default.html es casi idéntico a nuestro index.html, pero no contiene “Front Mater” y define dos variables que usarán el page.title y contenido de nuestros ficheros.
+ Content, es una variable especial que devuelve el contenido renderizado de la página que solicite el layout.</p>
+
+    <p>Para usar un layout ya definido, usamos la sección de FrontMatter (2):</p>
+  </li>
+</ol>
+
+<center><img src="./assets/img/posts/20211005/matter.png" width="240px" /></center>
+
+<ol>
+  <li>
+    <p>Includes</p>
+
+    <p>En el caso de que el contenido de tu web, tenga información que haya que repetir en va-rias páginas distintas, usaremos la funcionalidad de includes. Es común usar includes pa-ra definir el footer de la página web de forma consistente en todas las páginas. 
+ También es común usar includes para navegación y enlazar unas páginas con otras.
+ Por ejemplo este será el layout de nuestra página de departamento:</p>
+  </li>
+</ol>
+
+<center><img src="./assets/img/posts/20211005/include2.png" width="240px" /></center>
+
+<ol>
+  <li>
+    <p>Data files</p>
+
+    <p>Jekyll permite cargar datos de ficheros YAML, JSON y CSV. Estos ficheros tienen que crearse dentro de un directorio llamado <code class="language-plaintext highlighter-rouge">_data</code>.</p>
+
+    <p>Por ejemplo, los horarios de atención de secretaría pueden estar visibles en varias páginas a la vez. Usando data files, solo actualizamos la información base definida en un fichero YAML y nuestras páginas referenciarían ese fichero para generar la web. 
+ Podemos aplicar distintos estilos de visualización de la misma información dependiendo de la página que los use.</p>
+
+    <p>Por ejemplo definimos un archivo horarios_secretaria.yml en el directorio <code class="language-plaintext highlighter-rouge">_data</code>:</p>
+
+    <p>Hañsdkjlaorarios:</p>
+    <ul>
+      <li>lectivo: “de 8 a 10 horas”</li>
+      <li>no_lectivo: “de 8 a 14 horas”</li>
+    </ul>
+  </li>
+  <li>
+    <p>Otras funcionalidades</p>
+  </li>
+</ol>
+
+<p>Jekyll ofrece otras funcionalidades que nos facilitan nuestro trabajo, como la posibilidad de organizar en carpetas los archivos estáticos. Si quieres ampliar más la información vista anteriormente visita la página:
+https://jekyllrb.com/docs/step-by-step/01-setup/</p>
+
+<h3 id="qué-licencia-y-coste-tiene-jekyll">¿Qué licencia y coste tiene Jekyll?</h3>
+
+<p>Tanto Jekyll como los temas disponibles son código abierto y tienen como mínimo, licencia de código abierto MIT.
+Aunque hay servidores de pago, se encuentra alojamiento gratuito en GitHub Pa-ges y Netlify, aunque Netlify require incluir un código de “desarrollado con Netlify” en tu web. Ambas opciones permiten añadir un dominio propio de forma gratuita.</p>
+:ET

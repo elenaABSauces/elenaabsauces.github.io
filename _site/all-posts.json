@@ -1,21 +1,21 @@
 {
   "posts" : [
     
-    "./webgraf%C3%ADa.html",
-    
-    "./Analisis.html",
-    
-    "./comparativa.html",
-    
-    "./ventajas.html",
-    
-    "./Jekyll.html",
+    "./Presentacion.html",
     
     "./GP.html",
     
+    "./Jekyll.html",
+    
+    "./ventajas.html",
+    
+    "./comparativa.html",
+    
+    "./Analisis.html",
+    
     "./caso-practico.html",
     
-    "./Presentacion.html"
+    "./webgraf%C3%ADa.html"
     
   ]
 }
