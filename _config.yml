@@ -4,7 +4,7 @@ description: 'Proyecto final sobre el generador de webs estáticas Jekyll' # thi
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://elenaabsauces.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "/assets/img/branding/final2.png"
+logo: "/assets/img/branding/daw-logo.svg"
 logo-icon-SEO: "/assets/img/branding/final2.png" # must be a non SVG file
 
 # Night/Dark mode
@@ -36,10 +36,10 @@ twitter: '@eantob' # Add your Twitter handle
 bandcamp: eantob # Add your Bandcamp username
 
 # Newsletter
-mailchimp: "https://github.us1.list-manage.com/subscribe/post?u=8ece198b3eb260e6838461a60&amp;id=397d90b5f4"
+mailchimp: "http://eepurl.com/hNMPAz"
 
 # Disqus
-discus_identifier: elenaABSauces-github-io # Add your discus identifier
+discus_identifier: https-elenaabsauces-github-io # Add your discus identifier
 comments_curtain: yes # leave empty to show the disqus embed directly
 
 # Tracker
