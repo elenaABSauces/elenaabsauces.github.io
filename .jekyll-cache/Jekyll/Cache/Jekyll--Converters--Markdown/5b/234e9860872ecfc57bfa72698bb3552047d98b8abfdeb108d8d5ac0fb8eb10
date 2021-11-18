@@ -1,9 +1,12 @@
-I"<h2 id="analisis-y-diseño">Analisis y diseño</h2>
+I"$<h2 id="análisis-y-diseño">Análisis y diseño</h2>
 
-<p>Para crear este tutorial, haremos una página web con una única ruta principal, que tenga un apartado para cada parte del proceso, accesible desde la navegación principal de la web.
-Titulo del Sitio: DAW
-Subtitulo: Proyecto final
-Secciones:</p>
+<p>Para crear este tutorial, haremos una página web con una única ruta principal, que tenga un apartado para cada parte del proceso, accesible desde la navegación principal de la web.</p>
+
+<p>Titulo del Sitio: DAW</p>
+
+<p>Subtitulo: Proyecto final</p>
+
+<p>Secciones:</p>
 <ul>
   <li>Presentación</li>
   <li>Usando GitHub Pages</li>
@@ -21,7 +24,7 @@ Secciones:</p>
   <li>RubyGems</li>
   <li>GCC and Make
 	Diseño de Interface
-A la hora de elegir el diseño de Interface, buscaremos una plantilla de Jekyll que mejor se ajuste a nuestras necesidades. En este caso necesitamos un tema senci-llo de navegar, que ofrece la posibilidad de crear varios posts para organizar la in-formación que queremos compartir. También, un tema que se adapte a las plata-formas móviles y que use un esquema de colores atractivo, uniforme y con la posi-bilidad de elegir modo noche.</li>
+A la hora de elegir el diseño de Interface, buscaremos una plantilla de Jekyll que mejor se ajuste a nuestras necesidades. En este caso necesitamos un tema sencillo de navegar, que ofrece la posibilidad de crear varios posts para organizar la información que queremos compartir. También, un tema que se adapte a las plataformas móviles y que use un esquema de colores atractivo, uniforme y con la posibilidad de elegir modo noche.</li>
 </ul>
 
 <h3 id="árbol-de-navegación">Árbol de navegación</h3>

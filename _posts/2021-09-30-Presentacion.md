@@ -5,7 +5,7 @@ show_date: true
 title: BIENVENIDOS
 date: 2021-09-30
 img: posts/20210930/welcome.jpg
-tags: [jekyll, web, aplicación]
+tags: [jekyll, web, aplicación, introducción, estáticas]
 author: Elena de Antón
 description: "Presentación"
 ---
@@ -14,7 +14,7 @@ description: "Presentación"
 
 
 ¡Hola! Soy Elena de Antón, alumna del ciclo formativo "Desarrollo de plataformas web"; y como proyecto final he decidido investigar un poco como funciona el generador de webs estáticas de Jekyll.
-A lo largo de estos posts os adentrareis en mi proyecto y espero que acabeis teninendo tanta destreza y agilidad como la que he adquirido yo desarrollandolo.
+A lo largo de estos posts os adentrareis en mi proyecto y espero que acabeis teniendo tanta destreza y agilidad como la que he adquirido yo desarrollandolo.
 
 pero... ¿Cuándo es conveniente utilizar un generador de webs estáticas?
 

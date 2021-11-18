@@ -85,12 +85,32 @@
     
       
   {
+  "tag" : "estáticas",
+  "posts" : [
+      
+      "./Presentacion.html"
+      
+    ]
+  } ,
+    
+      
+  {
   "tag" : "generador",
   "posts" : [
       
       "./Jekyll.html",
       
       "./ventajas.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "introducción",
+  "posts" : [
+      
+      "./Presentacion.html"
       
     ]
   } ,

@@ -13,9 +13,14 @@ author: Elena de Antón
 
 # ¿Qué es y cómo funciona GitHub Pages?
 
-GitHub Pages es una herramienta que ofrece un servicio estático de hosting gratuito para webs que utiliza el protocolo HTTPS. Estas webs se alojan en un repositorio específico de la plataforma GitHub.
-Es un servicio muy sencillo de utilizar, básicamente tener un repositorio en GitHub cuyo nombre sea tu nombre de usuario seguido de github.io. Esa dirección será también la URL para acceder a tu sitio web. Por ejemplo, mi nombre de usuario en GitHub es ele-naABSauces, por lo que el nombre del repositorio que quiero tener alojado en GitHub Pa-ges es elenaABSauces.github.io (Las mayúsculas no interfieren). En el caso de tener un dominio propio, GitHub nos ofrece la posibilidad de configurar ese dominio como el princi-pal para acceder a la web.
-Para que se muestre correctamente nuestra web, el código que este subido en este repo-sitorio deberá estar estructurado del mismo modo que lo estaría cualquier sitio web, te-niendo como primer punto de entrada el documento HTML index.html. 
+GitHub Pages es una herramienta que ofrece un servicio estático de hosting gratuito para webs que utilizan el protocolo HTTPS. Estas webs se alojan en un repositorio específico de la plataforma GitHub.
+
+Es un servicio muy sencillo de utilizar, básicamente tener un repositorio en GitHub cuyo nombre sea tu nombre de usuario seguido de github.io. Esa dirección será también la URL para acceder a tu sitio web. 
+
+Por ejemplo, mi nombre de usuario en GitHub es ele-naABSauces, por lo que el nombre del repositorio que quiero tener alojado en GitHub Pages es elenaABSauces.github.io (Las mayúsculas no interfieren). En el caso de tener un dominio propio, GitHub nos ofrece la posibilidad de configurar ese dominio como el principal para acceder a la web.
+
+Para que se muestre correctamente nuestra web, el código que este subido en este repositorio deberá estar estructurado del mismo modo que lo estaría cualquier sitio web, teniendo como primer punto de entrada el documento HTML index.html. 
+
 Por lo demás, funcionaríamos igual que con cualquier otro proyecto en un repositorio con control de versiones usando GitHub.
 
 Puedes investigar más sobre GitHub Pages en su web: https://pages.github.com/

@@ -1,0 +1,64 @@
+I"�<h3 id="qué-ventajas-ofrece">¿Qué ventajas ofrece?</h3>
+
+<p>Jekyll tiene varias partes en su funcionalidad, que lo hacen muy interesante y potente para educación y equipos de contenido:</p>
+
+<h4 id="1-liquid">1. Liquid</h4>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Liquid es la funcionalidad de Jekyll que permite usar variables y "trocitos" de código reutilizables para los lenguajes de marcas que soporta. 
+Por ejemplo, usando HTML, si defines un fichero nav.html, puedes reutilizarlo en cualquie-ra de tus páginas llamando al siguiente código: 
+
+&lt;center&gt;&lt;img src="./assets/img/posts/20211005/include.png" width="240px"&gt;&lt;/center&gt;
+</code></pre></div></div>
+
+<h4 id="2-front-matter">2. Front Matter</h4>
+
+<p>Es un trozito de código / snippet escrito en YAML que se puede escribir al principio de todas las páginas para dar información adicional de la página a los bots, lectores de accesibilidad, etc. (redirigir, links, SEO …) Por ejemplo:</p>
+
+<center><img src="./assets/img/posts/20211005/front.png" width="240px" /></center>
+
+<h4 id="3-layouts">3. Layouts</h4>
+<p>Los Los layouts te permiten definir los estilos de la página web y se aplicará a tu contenido en HTML o Markdown. Para usar layouts, se necesita un directorio _layouts en la raiz del repositorio. Por ejemplo, para crear un layout por defecto, podemos usar un fichero default.hml dentro de la carpeta _layouts, con el siguiente contenido:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;center&gt;&lt;img src="./assets/img/posts/20211005/arbol.png" width="240px"&gt;&lt;/center&gt; Este fichero default.html es casi idéntico a nuestro index.html, pero no contiene “Front Mater” y define dos variables que usarán el page.title y contenido de nuestros ficheros. Content, es una variable especial que devuelve el contenido renderizado de la página que solicite el layout.
+</code></pre></div></div>
+
+<p>Para usar un layout ya definido, usamos la sección de FrontMatter (2):</p>
+
+<center><img src="./assets/img/posts/20211005/matter.png" width="240px" /></center>
+
+<h4 id="4-includes">4. Includes</h4>
+
+<p>En el caso de que el contenido de tu web, tenga información que haya que repetir en varias páginas distintas, usaremos la funcionalidad de includes. Es común usar includes para definir el footer de la página web de forma consistente en todas las páginas.</p>
+
+<p>También es común usar includes para navegación y enlazar unas páginas con otras.
+Por ejemplo este será el layout de nuestra página de departamento:</p>
+
+<center><img src="./assets/img/posts/20211005/include2.png" width="240px" /></center>
+
+<h4 id="5-data-files">5. Data files</h4>
+
+<p>Jekyll permite cargar datos de ficheros YAML, JSON y CSV. Estos ficheros tienen que crearse dentro de un directorio llamado <code class="language-plaintext highlighter-rouge">_data</code>.</p>
+
+<p>Por ejemplo, los horarios de atención de secretaría pueden estar visibles en varias páginas a la vez. Usando data files, solo actualizamos la información base definida en un fichero YAML y nuestras páginas referenciarían ese fichero para generar la web.</p>
+
+<p>Podemos aplicar distintos estilos de visualización de la misma información dependiendo de la página que los use.</p>
+
+<p>Por ejemplo definimos un archivo horarios_secretaria.yml en el directorio <code class="language-plaintext highlighter-rouge">_data</code>:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Horarios:
+-	Lectivo: “de 8 a 10 horas” 
+-	No_lectivo: “de 8 a 14 horas”
+</code></pre></div></div>
+
+<h4 id="6-otras-funcionalidades">6. Otras funcionalidades</h4>
+
+<p>Jekyll ofrece otras funcionalidades que nos facilitan nuestro trabajo, como la posibilidad de organizar en carpetas los archivos estáticos. Si quieres ampliar más la información vista anteriormente visita la página:</p>
+
+<p>https://jekyllrb.com/docs/step-by-step/01-setup/</p>
+
+<h3 id="qué-licencia-y-coste-tiene-jekyll">¿Qué licencia y coste tiene Jekyll?</h3>
+
+<p>Tanto Jekyll como los temas disponibles son código abierto y tienen como mínimo, licencia de código abierto MIT.</p>
+
+<p>Aunque hay servidores de pago, se encuentra alojamiento gratuito en GitHub Pages y Netlify, aunque Netlify require incluir un código de “desarrollado con Netlify” en tu web. Ambas opciones permiten añadir un dominio propio de forma gratuita.</p>
+:ET

@@ -14,7 +14,8 @@ author: Elena de Antón
 Existen otros dos grandes frameworks con los que Jekyll compite directamente: Hugo y Gatsby. 
 <center><img src="./assets/img/posts/20211010/gatsby.jpeg" width="240px"><img src="./assets/img/posts/20211010/hugo.png" width="240px"></center>
 
-Las mayores diferencias se encuentran en el lenguaje de progra-mación en los que están escritos: Hugo en Go y Gastby en JavaScript. 
+Las mayores diferencias se encuentran en el lenguaje de programación en los que están escritos: Hugo en Go y Gastby en JavaScript. 
+
 Además el proceso de publicar la página web usando GitHub Pages es inmediato usando Jekyll pero usando Hugo o Gatsby require usar funcionalidad intermedia de GitHub como GitHub Actions. 
 
 <center><img src="./assets/img/posts/20211010/comparativa.jpg" width="480px"></center>
@@ -24,8 +25,9 @@ Por otro lado, se puede comparar con gestores de contenidos como Wordpess, Drupa
 <center><img src="./assets/img/posts/20211010/wp.png" width="240px"><img src="./assets/img/posts/20211010/hugo.png" width="240px"><img src="./assets/img/posts/20211010/gatsby.jpeg" width="240px"></center>
 
 
-## Ejemplos de webs donde se ha utilizado Jekyll: : 
+### Ejemplos de webs donde se ha utilizado Jekyll: : 
 
-### https://jekyllrb.com/showcase/
+En el siguiente enlace encontrareís un listado de webs que se han creado utilizando plantillas de Jekyll: 
+ https://jekyllrb.com/showcase/
 
 
