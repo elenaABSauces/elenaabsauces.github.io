@@ -1,7 +1,7 @@
 [
   
     {
-      "title"       : "BIENVENIDOS",
+      "title"       : "1- BIENVENIDOS",
       "category"    : "",
       "tags"        : "jekyll, web, aplicación, introducción, estáticas",
       "url"         : "./Presentacion.html",
@@ -11,7 +11,7 @@
     } ,
   
     {
-      "title"       : "GitHub Pages",
+      "title"       : "2- GitHub Pages",
       "category"    : "",
       "tags"        : "jekyll, GitHub Pages",
       "url"         : "./GP.html",
@@ -21,7 +21,7 @@
     } ,
   
     {
-      "title"       : "¿Qué es Jekyll?",
+      "title"       : "3- ¿Qué es Jekyll?",
       "category"    : "",
       "tags"        : "generador, webs estaticas, jekyll, ventajas",
       "url"         : "./Jekyll.html",
@@ -31,7 +31,7 @@
     } ,
   
     {
-      "title"       : "Ventajas de usar Jekyll",
+      "title"       : "4-  Ventajas de usar Jekyll",
       "category"    : "",
       "tags"        : "generador, webs estaticas, jekyll, ventajas",
       "url"         : "./ventajas.html",
@@ -41,7 +41,7 @@
     } ,
   
     {
-      "title"       : "¿Por qué elegir Jekyll?",
+      "title"       : "5- ¿Por qué elegir Jekyll?",
       "category"    : "",
       "tags"        : "licencia, precio, comparativa",
       "url"         : "./comparativa.html",
@@ -51,7 +51,7 @@
     } ,
   
     {
-      "title"       : "Análisis",
+      "title"       : "6- Análisis",
       "category"    : "",
       "tags"        : "analisis, diseño, entorno de desarrollo, lenguajes de programación, tutorial, requisitos",
       "url"         : "./Analisis.html",
@@ -61,7 +61,7 @@
     } ,
   
     {
-      "title"       : "Caso Práctico",
+      "title"       : "7- Caso Práctico",
       "category"    : "",
       "tags"        : "jekyll, web, aplicación",
       "url"         : "./caso-practico.html",
@@ -71,7 +71,7 @@
     } ,
   
     {
-      "title"       : "Webgrafía",
+      "title"       : "8- Webgrafía",
       "category"    : "",
       "tags"        : "bibliografía, referencias, documentación",
       "url"         : "./webgraf%C3%ADa.html",

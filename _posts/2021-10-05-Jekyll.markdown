@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: true
-title:  ¿Qué es Jekyll?
+title: 3- ¿Qué es Jekyll?
 date:   2021-6-05 13:32:20 -0600
 description: Qué es Jekyll y como funciona
 img: posts/20211005/jekyll_white.png

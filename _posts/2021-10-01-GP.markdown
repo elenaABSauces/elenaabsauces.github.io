@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: false
-title:  GitHub Pages
+title: 2- GitHub Pages
 date:   2021-7-01
 description: Usando GitHub Pages
 img: posts/20211001/GitHub-Pages.png

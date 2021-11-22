@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: true
-title: BIENVENIDOS
+title: 1- BIENVENIDOS
 date: 2021-09-30
 img: posts/20210930/welcome.jpg
 tags: [jekyll, web, aplicación, introducción, estáticas]

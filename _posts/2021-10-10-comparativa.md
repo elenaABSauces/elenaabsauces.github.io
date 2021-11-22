@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: true
-title:  ¿Por qué elegir Jekyll?
+title:  5- ¿Por qué elegir Jekyll?
 date:   2021-4-10 12:32:20 -0600
 description: Comparativa con otras plataformas.
 img: posts/20211010/c.png 
