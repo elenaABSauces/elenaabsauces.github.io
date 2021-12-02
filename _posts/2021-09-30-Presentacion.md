@@ -18,7 +18,7 @@ A lo largo de estos posts os adentrareis en mi proyecto y espero que acabeis ten
 
 pero... ¿Cuándo es conveniente utilizar un generador de webs estáticas?
 
-Bueno, lo primero que debes hacer es tener claro es si quieres crear una web dinámica o estática. Algunas preguntas que puedes hacerte son:
+Bueno, lo primero que debes hacer es tener claro de si quieres crear una web dinámica o estática. Algunas preguntas que puedes hacerte son:
 
 - ¿Necesito una base de datos?
 - ¿Necesito que el cliente altere contenido?
