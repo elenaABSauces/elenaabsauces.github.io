@@ -1,4 +1,4 @@
-I"$<h2 id="análisis-y-diseño">Análisis y diseño</h2>
+I"�<h2 id="análisis-y-diseño">Análisis y diseño</h2>
 
 <p>Para crear este tutorial, haremos una página web con una única ruta principal, que tenga un apartado para cada parte del proceso, accesible desde la navegación principal de la web.</p>
 
@@ -22,12 +22,15 @@
 <ul>
   <li>Tener instalado la versión 2.5.0 de Ruby o superior.</li>
   <li>RubyGems</li>
-  <li>GCC and Make
-	Diseño de Interface
-A la hora de elegir el diseño de Interface, buscaremos una plantilla de Jekyll que mejor se ajuste a nuestras necesidades. En este caso necesitamos un tema sencillo de navegar, que ofrece la posibilidad de crear varios posts para organizar la información que queremos compartir. También, un tema que se adapte a las plataformas móviles y que use un esquema de colores atractivo, uniforme y con la posibilidad de elegir modo noche.</li>
+  <li>GCC and Make</li>
 </ul>
 
+<h4 id="diseño-de-interface">Diseño de Interface</h4>
+<p>A la hora de elegir el diseño de Interface, buscaremos una plantilla de Jekyll que mejor se ajuste a nuestras necesidades. En este caso necesitamos un tema sencillo de navegar, que ofrece la posibilidad de crear varios posts para organizar la información que queremos compartir. También, un tema que se adapte a las plataformas móviles y que use un esquema de colores atractivo, uniforme y con la posibilidad de elegir modo noche.</p>
+
 <h3 id="árbol-de-navegación">Árbol de navegación</h3>
+
+<p>Haz click en la imagen para ir directo al árbol de navegación realizado con la herramienta Figma:</p>
 
 <p><a href="https://www.figma.com/file/1uJpHBodtaK7anlFm8IUnz/Information-Architecture-Diagram-(Community)?node-id=0%3A1"><img src="./assets/img/posts/20211020/arbolc.png" width="1600px" /></a></p>
 :ET

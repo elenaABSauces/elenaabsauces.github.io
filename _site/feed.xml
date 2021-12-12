@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-12-02T20:47:02+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">DAW Proyecto Final</title><subtitle>Proyecto final sobre el generador de webs estáticas Jekyll</subtitle><author><name>Elena de Antón</name></author><entry><title type="html">1- BIENVENIDOS</title><link href="http://localhost:4000/Presentacion.html" rel="alternate" type="text/html" title="1- BIENVENIDOS" /><published>2021-09-30T00:00:00+02:00</published><updated>2021-09-30T00:00:00+02:00</updated><id>http://localhost:4000/Presentacion</id><content type="html" xml:base="http://localhost:4000/Presentacion.html">&lt;h2 id=&quot;introducción&quot;&gt;Introducción&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-12-12T18:38:14+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">DAW Proyecto Final</title><subtitle>Proyecto final sobre el generador de webs estáticas Jekyll</subtitle><author><name>Elena de Antón</name></author><entry><title type="html">1- BIENVENIDOS</title><link href="http://localhost:4000/Presentacion.html" rel="alternate" type="text/html" title="1- BIENVENIDOS" /><published>2021-09-30T00:00:00+02:00</published><updated>2021-09-30T00:00:00+02:00</updated><id>http://localhost:4000/Presentacion</id><content type="html" xml:base="http://localhost:4000/Presentacion.html">&lt;h2 id=&quot;introducción&quot;&gt;Introducción&lt;/h2&gt;
 
-&lt;p&gt;¡Hola! Soy Elena de Antón, alumna del ciclo formativo “Desarrollo de plataformas web”; y como proyecto final he decidido investigar un poco como funciona el generador de webs estáticas de Jekyll.
+&lt;p&gt;¡Hola! Soy Elena de Antón, alumna del ciclo formativo “Desarrollo de aplicaciones web”; y como proyecto final he decidido investigar un poco como funciona el generador de webs estáticas de Jekyll.
 A lo largo de estos posts os adentrareis en mi proyecto y espero que acabeis teniendo tanta destreza y agilidad como la que he adquirido yo desarrollandolo.&lt;/p&gt;
 
 &lt;p&gt;pero… ¿Cuándo es conveniente utilizar un generador de webs estáticas?&lt;/p&gt;
@@ -172,12 +172,15 @@ Por ejemplo este será el layout de nuestra página de departamento:&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Tener instalado la versión 2.5.0 de Ruby o superior.&lt;/li&gt;
   &lt;li&gt;RubyGems&lt;/li&gt;
-  &lt;li&gt;GCC and Make
-	Diseño de Interface
-A la hora de elegir el diseño de Interface, buscaremos una plantilla de Jekyll que mejor se ajuste a nuestras necesidades. En este caso necesitamos un tema sencillo de navegar, que ofrece la posibilidad de crear varios posts para organizar la información que queremos compartir. También, un tema que se adapte a las plataformas móviles y que use un esquema de colores atractivo, uniforme y con la posibilidad de elegir modo noche.&lt;/li&gt;
+  &lt;li&gt;GCC and Make&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h4 id=&quot;diseño-de-interface&quot;&gt;Diseño de Interface&lt;/h4&gt;
+&lt;p&gt;A la hora de elegir el diseño de Interface, buscaremos una plantilla de Jekyll que mejor se ajuste a nuestras necesidades. En este caso necesitamos un tema sencillo de navegar, que ofrece la posibilidad de crear varios posts para organizar la información que queremos compartir. También, un tema que se adapte a las plataformas móviles y que use un esquema de colores atractivo, uniforme y con la posibilidad de elegir modo noche.&lt;/p&gt;
+
 &lt;h3 id=&quot;árbol-de-navegación&quot;&gt;Árbol de navegación&lt;/h3&gt;
+
+&lt;p&gt;Haz click en la imagen para ir directo al árbol de navegación realizado con la herramienta Figma:&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.figma.com/file/1uJpHBodtaK7anlFm8IUnz/Information-Architecture-Diagram-(Community)?node-id=0%3A1&quot;&gt;&lt;img src=&quot;./assets/img/posts/20211020/arbolc.png&quot; width=&quot;1600px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>Elena de Antón</name></author><category term="analisis" /><category term="diseño" /><category term="entorno de desarrollo" /><category term="lenguajes de programación" /><category term="tutorial" /><category term="requisitos" /><summary type="html">Análisis y diseño</summary></entry><entry><title type="html">7- Caso Práctico</title><link href="http://localhost:4000/caso-practico.html" rel="alternate" type="text/html" title="7- Caso Práctico" /><published>2021-03-03T00:00:00+01:00</published><updated>2021-03-03T00:00:00+01:00</updated><id>http://localhost:4000/caso-practico</id><content type="html" xml:base="http://localhost:4000/caso-practico.html">&lt;h2 id=&quot;explicación-del-trabajo-realizado&quot;&gt;EXPLICACIÓN DEL TRABAJO REALIZADO&lt;/h2&gt;
 &lt;p&gt;A lo largo de este proyecto, se ha investigado el funcionamiento de Jekyll como generador de webs estáticas, y como alojar una web en GitHub Pages.
@@ -260,18 +263,43 @@ Nuestra plantilla, utiliza widgets tanto para la Newsletter como para los coment
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;Experimenta con Jekyll. (2017). Experimentaconjekyll. http://feeds.feedburner.com/Experimentaconjekyll&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://feeds.feedburner.com/Experimentaconjekyll&quot;&gt;Experimenta con Jekyll. (2017). Experimentaconjekyll.&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;GitHub Pages. (2021). https://pages.github.com/. https://pages.github.com/&lt;/li&gt;
-  &lt;li&gt;Infographic: Gatsby vs Hugo vs Jekyll. (2019, 13 marzo). Reddit. https://www.reddit.com/r/webdev/comments/b0j9rs/infographic_gatsby_vs_hugo_vs_jekyll/&lt;/li&gt;
-  &lt;li&gt;Jekyll – the practical generator for static websites. (2021, 27 octubre). IONOS Digitalguide. https://www.ionos.com/digitalguide/hosting/blogs/jekyll-the-basic-framework-for-web-projects-without-databases/&lt;/li&gt;
-  &lt;li&gt;L. (2020). Add webrick gem to fix jekyll server · luispuerto/luispuerto-net@1f62feb. GitHub. https://github.com/luispuerto/luispuerto-net/commit/1f62febdfd8d43d79d6095b031032e1692098925&lt;/li&gt;
-  &lt;li&gt;Lone Wolf Theme. (2021). Jekyll theme. http://jekyllthemes.org/themes/lone-wolf-theme/&lt;/li&gt;
-  &lt;li&gt;Markdown editing with Visual Studio Code. (2021, 3 noviembre). Visualstudio. https://code.visualstudio.com/docs/languages/markdown&lt;/li&gt;
-  &lt;li&gt;Make A High-Quality Logo In Just 5 Minutes For Under $30! (2021). Tailor Brands. https://studio.tailorbrands.com/&lt;/li&gt;
-  &lt;li&gt;Quickstart. (2021, 5 noviembre). Jekyll • Simple, Blog-Aware, Static Sites. https://jekyllrb.com/docs/&lt;/li&gt;
-  &lt;li&gt;Scribbr. (2021, 1 marzo). Formato APA con el Generador APA de. https://www.scribbr.es/detector-de-plagio/generador-apa/&lt;/li&gt;
-  &lt;li&gt;Showcase. (2021). Jekyll • Simple, Blog-Aware, Static Sites. https://jekyllrb.com/showcase/&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://pages.github.com&quot;&gt;GitHub Pages. (2021).&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/webdev/comments/b0j9rs/infographic_gatsby_vs_hugo_vs_jekyll&quot;&gt;Infographic: Gatsby vs Hugo vs Jekyll. (2019, 13 marzo). Reddit.&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.ionos.com/digitalguide/hosting/blogs/jekyll-the-basic-framework-for-web-projects-without-databases/&quot;&gt;Jekyll – the practical generator for static websites. (2021, 27 octubre). IONOS Digitalguide.&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/luispuerto/luispuerto-net/commit/1f62febdfd8d43d79d6095b031032e1692098925&quot;&gt;L. (2020). Add webrick gem to fix jekyll server · luispuerto/luispuerto-net@1f62feb. GitHub.&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://jekyllthemes.org/themes/lone-wolf-theme/&quot;&gt;Lone Wolf Theme. (2021). Jekyll theme.&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://code.visualstudio.com/docs/languages/markdown&quot;&gt;Markdown editing with Visual Studio Code. (2021, 3 noviembre). Visualstudio.&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://studio.tailorbrands.com/&quot;&gt;Make A High-Quality Logo In Just 5 Minutes For Under $30! (2021). Tailor Brands.&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://jekyllrb.com/docs/&quot;&gt;Quickstart. (2021, 5 noviembre). Jekyll • Simple, Blog-Aware, Static Sites.&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.scribbr.es/detector-de-plagio/generador-apa/&quot;&gt;Scribbr. (2021, 1 marzo). Formato APA con el Generador APA de. &lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://jekyllrb.com/showcase/&quot;&gt;Showcase. (2021). Jekyll • Simple, Blog-Aware, Static Sites. &lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;conclusión-final&quot;&gt;Conclusión final&lt;/h2&gt;</content><author><name>Elena de Antón</name></author><category term="bibliografía" /><category term="referencias" /><category term="documentación" /><summary type="html">Webgrafía Para elaborar este proyecto, se ha consultado la siguiente webgrafía:</summary></entry></feed>
+&lt;h2 id=&quot;conclusión-final&quot;&gt;Conclusión final&lt;/h2&gt;
+
+&lt;p&gt;A lo largo de este proyecto se ha estudiado y analizado la herramienta para generar webs estáticas: Jekyll, con el propósito de aprender y facilitar su uso.&lt;/p&gt;
+
+&lt;p&gt;Desde mi punto de vista, Jekyll es una herramienta muy potente y con muchas posibilidades, pero al mismo tiempo es sencilla de manejar pese a no disponer de un editor de con-tenidos WYSIWYG. En local, todos los editores ya permiten hacer una visualización previa del contenido.&lt;/p&gt;
+
+&lt;p&gt;Como trabajo futuro, se podría investigar la posibilidad de añadir más widgets y de aprender a crear temas propios en Jekyll que se puedan utilizar como plantilla.&lt;/p&gt;</content><author><name>Elena de Antón</name></author><category term="bibliografía" /><category term="referencias" /><category term="documentación" /><summary type="html">Webgrafía Para elaborar este proyecto, se ha consultado la siguiente webgrafía:</summary></entry></feed>

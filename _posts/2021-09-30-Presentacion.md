@@ -13,7 +13,7 @@ description: "Presentación"
 ## Introducción
 
 
-¡Hola! Soy Elena de Antón, alumna del ciclo formativo "Desarrollo de plataformas web"; y como proyecto final he decidido investigar un poco como funciona el generador de webs estáticas de Jekyll.
+¡Hola! Soy Elena de Antón, alumna del ciclo formativo "Desarrollo de aplicaciones web"; y como proyecto final he decidido investigar un poco como funciona el generador de webs estáticas de Jekyll.
 A lo largo de estos posts os adentrareis en mi proyecto y espero que acabeis teniendo tanta destreza y agilidad como la que he adquirido yo desarrollandolo.
 
 pero... ¿Cuándo es conveniente utilizar un generador de webs estáticas?
