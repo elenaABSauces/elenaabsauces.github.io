@@ -28,6 +28,7 @@ Por otro lado, se puede comparar con gestores de contenidos como Wordpess, Drupa
 ### Ejemplos de webs donde se ha utilizado Jekyll: : 
 
 En el siguiente enlace encontrareís un listado de webs que se han creado utilizando plantillas de Jekyll: 
- https://jekyllrb.com/showcase/
+ [https://jekyllrb.com/showcase/](https://jekyllrb.com/showcase/)
+
 
 

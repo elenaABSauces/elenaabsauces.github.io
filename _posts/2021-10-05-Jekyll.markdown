@@ -44,6 +44,6 @@ La mayor ventaja de los temas de Jekyll, es que todos los archivos pueden sobres
 
 Cualquiera puede crear y subir un tema de Jekyll, pero principalmente estarían recogidos en las siguientes webs:
 
--	La página oficial de Jekyll para guardar temas: http://jekyllthemes.org/
--	Dentro de GitHub: https://github.com/jekyll/jekyll/wiki/Sites
+-	La página oficial de Jekyll para guardar temas: [http://jekyllthemes.org/](http://jekyllthemes.org/)
+-	Dentro de GitHub: [https://github.com/jekyll/jekyll/wiki/Sites](https://github.com/jekyll/jekyll/wiki/Sites)
 
